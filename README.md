@@ -8,4 +8,4 @@ In the project directory, you can run:
 
 ### `expo start`
 
-### `connect to App from QR-code`
+### `connect to App by QR-code`
